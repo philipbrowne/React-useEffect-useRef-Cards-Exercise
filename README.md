@@ -1,3 +1,7 @@
+# React useEffect and useRef Exercise
+
+Using Deck of Cards API!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
